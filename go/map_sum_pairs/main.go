@@ -1,4 +1,4 @@
-package map_sum_pairs
+package main
 
 import (
 	"sort"
